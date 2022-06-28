@@ -1,0 +1,23 @@
+#wrap{
+    min-width: 360px;
+}
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
+header h1{}
+header nav{}
+header nav .btn_show_all_menu{}
+header nav .all_menu{
+    display: none;
+}
+header nav .all_menu .menu_box{}
+header nav .all_menu .menu_box h2{}
+header nav .all_menu .menu_box h2 ul{}
+header nav .all_menu .menu_box h2 ul li{}
+header nav .all_menu .menu_box h2 ul li a{}
+header nav .all_menu .menu_box{}
+header nav .btn_hide_all_menu{}

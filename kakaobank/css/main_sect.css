@@ -1,0 +1,12 @@
+.inner{
+    width: 360px;
+    padding: 0 18px;
+    margin: auto;
+}
+.a_center{
+    text-align: center;
+}
+.visual{
+    height: 386px;
+    background-color: #333;
+}
